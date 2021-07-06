@@ -1,0 +1,219 @@
+.App {
+  text-align: center;
+}
+
+.appbar{
+  justify-content: center;
+}
+
+
+.margin-left{
+    margin-left:30px ;
+    font-size: 15px;
+}
+
+.margin-right{
+  margin-left: 30px;
+  margin-right: 5px;;
+  font-size:15px;
+ 
+}
+.banner{
+
+  margin-top: 60px;
+  max-width: 1000px;
+  background-image: url('https://entrackr.com/wp-content/uploads/2018/10/udaan-poster.jpg');
+
+  float:center;
+  text-align: center;
+  margin-left: 200px;
+  color: rgb(165,42,42);
+
+}
+.profile{
+  height:95px;
+  width:95px;
+}
+.kyc{
+  height:95px;
+  width:95px;
+}
+.order{
+  height:95px;
+  width:95px;
+
+}
+
+h1{
+
+  font-family: Roboto;
+  font-size:60px;
+  color:white;
+  
+}
+.shoes{
+  height:150px;
+  width:150px;
+}
+
+.clothes{
+  height:150px;
+  width:150px;
+}
+
+.steps{
+  margin-top: 0px;
+  width: 100%;
+ 
+
+}
+
+.elec{
+  height:150px;
+  width:150px;
+}
+
+#register{
+
+  margin-left:30px;
+  text-align: center;
+  
+}
+.search{
+  margin-right: 30px;
+  height: 35px;
+  width: 70px;
+}
+.reg{
+  margin-top: 60px;
+  
+}
+#leftbox{
+float:left; 
+width:30%;
+height:280px;
+font-family: cursive;
+margin-left: 40px;
+font-size:25px;
+font-weight: bold;
+
+}
+#middlebox{
+  float:left; 
+  width:30%;
+  height:280px;
+  margin-left:50px;
+  font-family: cursive;
+  font-size:25px;
+  font-weight: bold;
+
+}
+#rightbox{
+  float:right;
+  width:30%;
+  height:280px;
+  margin-left:10px;
+  margin-right: 25px;
+  font-family: cursive;
+  font-size:25px;
+  font-weight: bold;
+}
+.products{
+
+  float: center;
+  font-size:20px;
+  font-family:"Marker Felt,", fantasy;
+  margin-top:65px;
+  margin-bottom:10px;
+  color:gray;
+}
+.trade{
+  margin-bottom: 65px;
+  text-align: center;
+  margin-right: 300px;
+  margin-left: 250px;
+  
+}
+
+h2{
+  color: crimson;
+  font-size: 40px;
+  margin-right: 100px;
+  margin-left:100px;
+ 
+  font-family: "Georgia", Times, serif;
+}
+.cat{
+  font-size:50px;
+  margin-top: 60px;
+  margin-bottom: 100px;
+  color:black;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+Nav.Link{
+color: black;
+font-size: 15px;
+font-family: "Lucida Console", "Courier New", monospace;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+.App-header {
+  
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+h4{
+  color:black;
+  font-weight: bold;
+
+
+}
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.leftbox{
+  float:left; 
+  width:30%;
+  height:280px;
+  margin-left:80px;
+  
+
+}
+.rightbox{
+  float:right; 
+  width:30%;
+  height:280px;
+  margin-right:40px;
+}
+.middlebox{
+  float:left; 
+  width:30%;
+  height:280px;
+ 
+  }
+  .det{
+    width:90%;
+    font-size: 22px;
+  }
